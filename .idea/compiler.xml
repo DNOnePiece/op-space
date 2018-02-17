@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="op-parent" target="1.7" />
-      <module name="op-web" target="1.7" />
+      <module name="op-parent" target="1.5" />
+      <module name="op-web" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
